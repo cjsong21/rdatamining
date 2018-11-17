@@ -1,5 +1,4 @@
-# rdatamining
-# R을 이용한 데이터 마이닝
+# rdatamining R을 이용한 데이터 마이닝
 
 - 환경구성
 1. R 설치
